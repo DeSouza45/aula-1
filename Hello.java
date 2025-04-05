@@ -4,6 +4,6 @@ public class Hello {
         holaquetal();
     }
     public static void holaquetal() {
-        System.out.println("hola que tal");
+        System.out.println("Hola que tal");
     }
 }

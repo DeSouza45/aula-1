@@ -1,9 +1,9 @@
 public class Hello {
 
     public static void main(String[] args) {
-        olamundo();
+        holaquetal();
     }
-    public static void olamundo() {
-        System.out.println("Olá Mundo!");
+    public static void holaquetal() {
+        System.out.println("hola que tal");
     }
 }
